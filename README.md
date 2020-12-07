@@ -1,2 +1,2 @@
 # Simple-Logic
-A simple and easy circuit emulator in the processing development environment
+A simple and easy circuit emulator using the processing development environment
