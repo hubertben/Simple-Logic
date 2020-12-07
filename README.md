@@ -1,2 +1,2 @@
 # Simple-Logic
-A simple and easy way to work with logic gates
+A simple and easy circuit emulator in the processing development environment
